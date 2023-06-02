@@ -8,7 +8,9 @@ $\text{fan mode = fan in or fan out}$
 
 $W \in \mathbb{R}^{(392, 784)}$
 
-$W \in \mathbb{R}^{(10, 392)}$
+$W \in \mathbb{R}^{(196, 392)}$
+
+$W \in \mathbb{R}^{(10, 196)}$
 
 $W \in \mathbb{R}^{(10, 14)}$
 
