@@ -1,6 +1,6 @@
 # Investigating Energy Efficiency in Biological Neurons and Artificial Neural Networks
 
-This repository contains the code behind "[Box URL Link for Powerpoint]"
+This repository contains the code behind [this poster](https://ucdavis.box.com/s/1kj7iyz3airgjqq9yxbd0jyei60qzlz5)
 
 Author: Brian Li (in collaboration with UC Davis Center Neuroscience Chaudhuri Lab)
 
@@ -9,7 +9,6 @@ Author: Brian Li (in collaboration with UC Davis Center Neuroscience Chaudhuri L
 2. Download the [PyTorch library](https://pytorch.org/get-started/locally/)
 3. Run all in ``standard_feedforward_ANN.ipynb`` to generate ``standard_feedforward_ANN.png``
 4. Run all in ``biological_neuron_inspiried_ANN.ipynb`` to generate ``biological_neuron_inspiried_ANN.png``
-
 
 # Information on diagrams
 - Run all in ``mnist_images.ipynb`` to generate ``mnist_images.png``
