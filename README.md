@@ -13,5 +13,5 @@ Author: Brian Li (in collaboration with UC Davis Center Neuroscience Chaudhuri L
 # Information on diagrams
 - Run all in ``mnist_images.ipynb`` to generate ``mnist_images.png``
 - Run all in ``relu.ipynb`` to generate ``relu.png``
-- This [website](https://alexlenail.me/NN-SVG/index.html) was used to generate the neural network architecture diagrams
-- ``markdown_diagram.md`` contains all of the equations and expressions used
+- [NN-SVG](https://alexlenail.me/NN-SVG/index.html) was used to generate the neural network architecture diagrams
+- ``markdown_symbols.md`` contains all of the equations and expressions used
